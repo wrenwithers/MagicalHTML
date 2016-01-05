@@ -2,3 +2,8 @@ h1{
   color: blue;
   font-style: italic;
 }
+ul{
+  color:red;
+  font-size: 60px
+  font-family: monospace;
+}
