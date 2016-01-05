@@ -1,16 +1,31 @@
 <!DOCTYPE html>
 <html>
+  <head>
+   <title> wrenshtmlpage </title>
+  </head>
    <body>
-<h1>This is Wren's first attempt</h1>
+<h1>This is <strong>Wren's</strong> first attempt</h1>
 <h2>This is pretty interesting, I guess</h2>
-
-<p>This is my longer paragraph, I wish I could type faster on this computer</p>
-<p>I like these things in this order:</p>
-  <ol>
+  <p>This is my longer paragraph, I <em>wish</em>
+    I could type faster on this computer
+  </p>
+  <p>I like these things in this order:
+  </p>
+   <ol>
     <li>Stuff</li>
     <li>Things</li>
     <li>Also people</li>
-
-  </ol>
+   </ol>
+  <p>
+    <img src="img/jack.jpeg" alt="Picture of Jack Russel">
+  </p>
+  <p>
+    <a href="http://www.epicodus.com">
+      This is epicodus coding school</a>
+  </p>
+  <p>
+   <a href="firstPage.html">
+     Here's Sean's Attempt</a>
+  </p>
    </body>
 </html>
