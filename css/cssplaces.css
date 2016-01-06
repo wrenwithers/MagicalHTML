@@ -1,0 +1,15 @@
+h1{
+  color: #571B7e;
+  font-family: fantasy;
+  font-weight: bolder;
+}
+p{
+  font-family: sans-serif;
+  color: teal;
+}
+ol{
+  text-align: left;
+  color: green;
+  font-size: 30px;
+  font-family: monospace;
+}
